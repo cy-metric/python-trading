@@ -7,7 +7,7 @@
 - 목차
   * [1. open API 및 koa studio 설치](#1-open-api-및-koa-studio-설치)
   * [2. anaconda 설치](#2-anaconda-설치)
-  * [3. 필요한 package 설치[jupyter notebook]](#3-필요한-package-설치%5Bjupyter-notebook%5D)
+  * [3. 필요한 package 설치(jupyter notebook)](#3-필요한-package-설치jupyter-notebook)
 
 <hr/>
 
@@ -68,7 +68,7 @@ conda install python==3.7
 
 
 
-## 3. 필요한 package 설치[jupyter notebook]
+## 3. 필요한 package 설치(jupyter notebook)
 ### 모든 package들은 virtual_env_name이 활성화된 상태에서 설치가 진행된다.
 
 ```
