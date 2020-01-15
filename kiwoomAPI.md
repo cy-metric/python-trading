@@ -2,19 +2,21 @@
 
 본문은 https://wikidocs.net/book/110 (파이썬으로 배우는 알고리즘 트레이딩 (개정판-2쇄))를 따라하면서 삽질한 결과를 바탕으로 쓰여졌다.
 
-## 목차
-[1. Open API 및 KOA Studio 설치](#1.-Open-API-설치-및-KOA-Studio-설치)
+<hr/>
 
-[2. Anaconda 설치(64bit 추천)](#2.-Anaconda-설치)
+- 목차
+  * [1. open API 및 koa studio 설치](#1-open-api-및-koa-studio-설치)
+  * [2. anaconda 설치](#2-anaconda-설치)
+  * [3. 필요한 package 설치(jupyter notebook)](#3-필요한-package-설치(jupyter-notebook))
 
-[3. 필요한 package 설치(주로 Jupyter notebook)](#3.-필요한-package-설치(Jupyter-notebook))
+<hr/>
 
-## 1. Open API 설치 및 KOA Studio 설치
+## 1. open api 및 koa studio 설치
 위 과정은 티스토리 글의 개발환경 구축작업의 1~3번 까지의 과정과 동일하므로 아래의 링크를 참고하면 될 것이다.
 
 > https://toptrader.tistory.com/9
 
-## 2. Anaconda 설치
+## 2. anaconda 설치
 
 > https://www.anaconda.com/distribution/
 
@@ -66,7 +68,7 @@ conda install python==3.7
 
 
 
-## 3. 필요한 package 설치(Jupyter notebook)
+## 3. 필요한 package 설치(jupyter notebook)
 ### 모든 package들은 virtual_env_name이 활성화된 상태에서 설치가 진행된다.
 
 ```
