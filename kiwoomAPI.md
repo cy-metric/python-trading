@@ -7,7 +7,7 @@
 - 목차
   * [1. open API 및 koa studio 설치](#1-open-api-및-koa-studio-설치)
   * [2. anaconda 설치](#2-anaconda-설치)
-  * [3. 필요한 package 설치(jupyter notebook)](#3-필요한-package-설치(jupyter-notebook))
+  * [3. 필요한 package 설치(jupyter notebook)](#3-필요한-package-설치jupyter-notebook)
 
 <hr/>
 
