@@ -75,6 +75,9 @@ conda install python==3.7
 conda install pip
 # pip을 설치한다.
 
+pip install PyQt5
+# PyQt5 pkg 설치
+
 pip install pandas-datareader
 # pandas-datareader pkg 설치 conda를 이용하면 64bit로 깔려 pip을 이용하였다.
 
